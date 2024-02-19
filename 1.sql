@@ -1,4 +1,5 @@
-/* Recyclable and Low Fat Products
+/* Question:
+Recyclable and Low Fat Products
 
 Table: Products
 +-------------+---------+
@@ -15,6 +16,6 @@ Write a solution to find the ids of products that are both low fat and recyclabl
 Return the result table in any order.
 */
 
-
+#Solution:
 select product_id from Products
 where low_fats = 'Y' and recyclable = 'Y';
