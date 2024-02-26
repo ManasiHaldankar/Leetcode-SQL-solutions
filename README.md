@@ -40,3 +40,26 @@ Return the resulting table in any order.
 
 Write a solution to find the IDs of the users who visited without making any transactions and the number of times they made these types of visits.
 Return the result table sorted in any order.
+
+9. Rising Temperature
+
+Write a solution to find all dates' Id with higher temperatures compared to its previous dates (yesterday).
+Return the result table in any order.
+
+10. Average Time of Process per Machine
+
+There is a factory website that has several machines each running the same number of processes. Write a solution to find the average time each machine takes to complete a process.
+The time to complete a process is the 'end' timestamp minus the 'start' timestamp. The average time is calculated by the total time to complete every process on the machine divided by the number of processes that were run.
+The resulting table should have the machine_id along with the average time as processing_time, which should be rounded to 3 decimal places.
+Return the result table in any order.
+
+11. Employee Bonus
+
+Write a solution to report the name and bonus amount of each employee with a bonus less than 1000.
+Return the result table in any order.
+
+12. Students and Examinations 
+
+Write a solution to find the number of times each student attended each exam.
+Return the result table ordered by student_id and subject_name.
+
