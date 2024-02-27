@@ -63,3 +63,7 @@ Return the result table in any order.
 Write a solution to find the number of times each student attended each exam.
 Return the result table ordered by student_id and subject_name.
 
+13. Managers with at Least 5 Direct Reports
+
+Write a solution to find managers with at least five direct reports.
+Return the result table in any order.
