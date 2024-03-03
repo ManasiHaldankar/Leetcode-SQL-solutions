@@ -67,3 +67,13 @@ Return the result table ordered by student_id and subject_name.
 
 Write a solution to find managers with at least five direct reports.
 Return the result table in any order.
+
+14. Confirmation Rate
+
+Write a solution to find the confirmation rate of each user.
+Return the result table in any order.
+
+15. Not Boring Movies
+
+Write a solution to report the movies with an odd-numbered ID and a description that is not "boring".
+Return the result table ordered by rating in descending order.
