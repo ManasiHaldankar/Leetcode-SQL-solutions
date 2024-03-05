@@ -82,3 +82,13 @@ Return the result table ordered by rating in descending order.
 
 Write a solution to find the average selling price for each product. average_price should be rounded to 2 decimal places.
 Return the result table in any order.
+
+17. Project Employees I
+
+Write an SQL query that reports the average experience years of all the employees for each project, rounded to 2 digits.
+Return the result table in any order.
+
+18. Percentage of Users Attended a Contest
+
+Write a solution to find the percentage of the users registered in each contest rounded to two decimals.
+Return the result table ordered by percentage in descending order. In case of a tie, order it by contest_id in ascending order.
