@@ -77,3 +77,8 @@ Return the result table in any order.
 
 Write a solution to report the movies with an odd-numbered ID and a description that is not "boring".
 Return the result table ordered by rating in descending order.
+
+16. Average Selling Price
+
+Write a solution to find the average selling price for each product. average_price should be rounded to 2 decimal places.
+Return the result table in any order.
