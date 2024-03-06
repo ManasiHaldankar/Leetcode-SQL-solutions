@@ -92,3 +92,14 @@ Return the result table in any order.
 
 Write a solution to find the percentage of the users registered in each contest rounded to two decimals.
 Return the result table ordered by percentage in descending order. In case of a tie, order it by contest_id in ascending order.
+
+19. Queries Quality and Percentage
+
+Write a solution to find each query_name, the quality and poor_query_percentage.
+Both quality and poor_query_percentage should be rounded to 2 decimal places.
+Return the result table in any order.
+
+20. Monthly Transactions I
+
+Write an SQL query to find for each month and country, the number of transactions and their total amount, the number of approved transactions and their total amount.
+Return the result table in any order.
