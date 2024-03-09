@@ -116,3 +116,18 @@ Write a solution to report the fraction of players that logged in again on the d
 
 Write a solution to calculate the number of unique subjects each teacher teaches in the university.
 Return the result table in any order.
+
+24. User Activity for the Past 30 Days I
+
+Write a solution to find the daily active user count for a period of 30 days ending 2019-07-27 inclusively. A user was active on someday if they made at least one activity on that day.
+Return the result table in any order.
+
+25. Product Sales Analysis III
+
+Write a solution to select the product id, year, quantity, and price for the first year of every product sold.
+Return the resulting table in any order.
+
+26. Classes More Than 5 Students
+
+Write a solution to find all the classes that have at least five students.
+Return the result table in any order.
