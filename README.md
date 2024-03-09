@@ -111,3 +111,8 @@ Write a solution to find the percentage of immediate orders in the first orders 
 22. Game Play Analysis IV
 
 Write a solution to report the fraction of players that logged in again on the day after the day they first logged in, rounded to 2 decimal places. In other words, you need to count the number of players that logged in for at least two consecutive days starting from their first login date, then divide that number by the total number of players.
+
+23. Number of Unique Subjects Taught by Each Teacher
+
+Write a solution to calculate the number of unique subjects each teacher teaches in the university.
+Return the result table in any order.
