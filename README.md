@@ -131,3 +131,17 @@ Return the resulting table in any order.
 
 Write a solution to find all the classes that have at least five students.
 Return the result table in any order.
+
+27. Find Followers Count
+
+Write a solution that will, for each user, return the number of followers.
+Return the result table ordered by user_id in ascending order.
+
+28. Biggest Single Number
+
+Find the largest single number. If there is no single number, report null.
+
+29. Customers Who Bought All Products
+
+Write a solution to report the customer ids from the Customer table that bought all the products in the Product table.
+Return the result table in any order.
