@@ -150,3 +150,8 @@ Return the result table in any order.
 
 Write a solution to report the ids and the names of all managers, the number of employees who report directly to them, and the average age of the reports rounded to the nearest integer.
 Return the result table ordered by employee_id.
+
+31. Primary Department for Each Employee
+
+Write a solution to report all the employees with their primary department. For employees who belong to one department, report their only department.
+Return the result table in any order.
