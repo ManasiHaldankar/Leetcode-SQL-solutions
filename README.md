@@ -145,3 +145,8 @@ Find the largest single number. If there is no single number, report null.
 
 Write a solution to report the customer ids from the Customer table that bought all the products in the Product table.
 Return the result table in any order.
+
+30. The Number of Employees Which Report to Each Employee
+
+Write a solution to report the ids and the names of all managers, the number of employees who report directly to them, and the average age of the reports rounded to the nearest integer.
+Return the result table ordered by employee_id.
