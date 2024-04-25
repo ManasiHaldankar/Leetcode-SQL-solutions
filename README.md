@@ -155,3 +155,48 @@ Return the result table ordered by employee_id.
 
 Write a solution to report all the employees with their primary department. For employees who belong to one department, report their only department.
 Return the result table in any order.
+
+32. Triangle Judgement
+    
+Report for every three line segments whether they can form a triangle.
+Return the result table in any order.
+
+33. Consecutive Numbers
+
+Find all numbers that appear at least three times consecutively.
+Return the result table in any order.
+
+34. Product Price at a Given Date
+
+Write a solution to find the prices of all products on 2019-08-16. Assume the price of all products before any change is 10.
+Return the result table in any order.
+
+35. Last Person to Fit in the Bus
+
+Write a solution to find the person_name of the last person that can fit on the bus without exceeding the weight limit. The test cases are generated such that the first person does not exceed the weight limit.
+
+36.  Count Salary Categories
+
+Write a solution to calculate the number of bank accounts for each salary category. The salary categories are:
+Return the result table in any order.
+
+37. Employees Whose Manager Left the Company
+
+Find the IDs of the employees whose salary is strictly less than $30000 and whose manager left the company. When a manager leaves the company, their information is deleted from the Employees table, but the reports still have their manager_id set to the manager that left.
+Return the result table ordered by employee_id.
+
+38. Exchange Seats
+
+Write a solution to swap the seat id of every two consecutive students. If the number of students is odd, the id of the last student is not swapped.
+Return the result table ordered by id in ascending order.
+
+39. Movie Rating
+
+Write a solution to:
+Find the name of the user who has rated the greatest number of movies. In case of a tie, return the lexicographically smaller user name.
+Find the movie name with the highest average rating in February 2020. In case of a tie, return the lexicographically smaller movie name.
+
+40. Restaurant Growth
+
+Compute the moving average of how much the customer paid in a seven days window (i.e., current day + 6 days before). average_amount should be rounded to two decimal places.
+Return the result table ordered by visited_on in ascending order.
