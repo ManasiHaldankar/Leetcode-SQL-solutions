@@ -200,3 +200,15 @@ Find the movie name with the highest average rating in February 2020. In case of
 
 Compute the moving average of how much the customer paid in a seven days window (i.e., current day + 6 days before). average_amount should be rounded to two decimal places.
 Return the result table ordered by visited_on in ascending order.
+
+41. Friend Requests II: Who Has the Most Friends
+
+Write a solution to find the people who have the most friends and the most friends number.
+
+42. Investments in 2016
+
+Write a solution to report the sum of all total investment values in 2016 tiv_2016, for all policyholders who:
+have the same tiv_2015 value as one or more other policyholders, and
+are not located in the same city as any other policyholder (i.e., the (lat, lon) attribute pairs must be unique).
+Round tiv_2016 to two decimal places.
+
