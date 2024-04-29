@@ -212,3 +212,12 @@ have the same tiv_2015 value as one or more other policyholders, and
 are not located in the same city as any other policyholder (i.e., the (lat, lon) attribute pairs must be unique).
 Round tiv_2016 to two decimal places.
 
+43. Department Top Three Salaries
+
+Write a solution to find the employees who are high earners in each of the departments.
+Return the result table in any order.
+
+44. Fix Names in a Table
+
+Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.
+Return the result table ordered by user_id.
