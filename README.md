@@ -230,3 +230,13 @@ Return the result table in any order.
 46. Delete Duplicate Emails
  
 Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
+
+47. Second Highest Salary
+
+Write a solution to find the second highest salary from the Employee table. If there is no second highest salary, return null (return None in Pandas).
+
+48. Group Sold Products By The Date
+
+Write a solution to find for each date the number of different products sold and their names.
+The sold products names for each date should be sorted lexicographically.
+Return the result table ordered by sell_date.
