@@ -221,3 +221,12 @@ Return the result table in any order.
 
 Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.
 Return the result table ordered by user_id.
+
+45. Patients With a Condition
+    
+Write a solution to find the patient_id, patient_name, and conditions of the patients who have Type I Diabetes. Type I Diabetes always starts with DIAB1 prefix.
+Return the result table in any order.
+
+46. Delete Duplicate Emails
+ 
+Write a solution to delete all duplicate emails, keeping only one unique email with the smallest id.
