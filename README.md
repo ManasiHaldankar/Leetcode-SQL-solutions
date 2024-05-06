@@ -1,3 +1,5 @@
+**Leetcode profile: https://lnkd.in/e2wDvHTa**
+
 1. Recyclable and Low Fat Products
    
 Write a solution to find the ids of products that are both low fat and recyclable.
