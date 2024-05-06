@@ -1,4 +1,4 @@
-**Leetcode profile: h[ttps://lnkd.in/e2wDvHTa](https://leetcode.com/u/mhaldank/)**
+**Leetcode profile: https://leetcode.com/u/mhaldank/**
 
 1. Recyclable and Low Fat Products
    
